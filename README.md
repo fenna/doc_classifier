@@ -6,7 +6,7 @@ De Hanzehogeschool heeft de mogelijkheden onderzocht voor een document classifie
 De mappen structuur is als volgt
 
 - `ocr` # bevat de ocr gescande documenten (input)
-- `pdd` # bevat de naar pdf omgezette documenten (resultaat stap 1)
+- `pdf` # bevat de naar pdf omgezette documenten (resultaat stap 1)
 - `txt` # bevat de naar txt format omgezette documenten (resultaat stap 2)
 - `formatted` # bevat de tabular format geformateerde documenten (resultaat stap 3)
 - `normalized` # bevat de genormaliseerde tabular format geformateerde documenten (resultaat stap 4)
